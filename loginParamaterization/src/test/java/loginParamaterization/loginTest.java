@@ -116,7 +116,7 @@ public class loginTest {
 			 else {
 				 System.out.println("PASS");
 					
-				 Reporter.log("Login is successfull");
+				 Reporter.log("Login is successfull!! Yipppiee");
 				 return true;
 			    }
 		}
